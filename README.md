@@ -1,0 +1,2 @@
+# vpn
+setup vpn automatically
